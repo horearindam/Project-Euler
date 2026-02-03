@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-    return 0;
-}
+static long long solve() {}
 
+int main() {
+    volatile auto result = solve();
+    (void)result;
+}
