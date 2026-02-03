@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/p002.dir/src/p002.cpp.o -o p002 
