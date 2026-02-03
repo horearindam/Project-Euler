@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/p004.dir/src/p004.cpp.o -o p004 
